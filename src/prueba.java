@@ -2,5 +2,7 @@ public class prueba {
     public static void main(String[] args) {
 String nombre = "fabiola";
         System.out.println("hola, " + nombre);
+
+        //esto de ser un comentario xd
     }
 }
